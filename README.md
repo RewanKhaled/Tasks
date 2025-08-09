@@ -1,9 +1,11 @@
 🚀 Problem-Solving Tasks
+--------------------------------------------------------------------------------------------------------------------------
 This repository contains two sets of programming challenges:
 💻 C++ Tasks – Algorithmic problems to practice logic and implementation.
 🐍 Python Tasks – Practical exercises focusing on Python features, libraries, and problem-solving skills.
 
 💻 C++ Tasks
+--------------------------------------------------------------------------------------------------------------------------
 1- 🥤 Orange Juice Cocktail
 Mix equal parts of several drinks with given 🍊 juice percentages and calculate the percentage in the final mixture.
 
@@ -18,8 +20,9 @@ Calculate the absolute difference between the sums of a square matrix’s ↘ pr
 
 5- 🍏🍊 Apples and Oranges
 Count how many apples 🍏 and oranges 🍊 fall on Sam’s house 🏠 given tree positions and fruit fall distances.
------------------------------------------------------------------------------------------------------------------------------------------------
+
 🐍 Python Tasks
+-----------------------------------------------------------------------------------------------------------------------------------
 1- 🤖 Chat Bot
 A chatbot that remembers your name ✍️, performs ➕➖ arithmetic, and handles unknown queries using dictionaries 📚 and lists 📝.
 
