@@ -37,3 +37,17 @@ Load an image 📷, turn its left quarter ⬅️ black 🖤, and save it.
 
 5- 📜 Matrix Script Decoder
 Read a matrix 📊 column-wise, replace non-alphanumeric gaps with spaces, and output the decoded message 🗣.
+
+🧩 OOP Task
+-----------------------------------------------------------------------------------------------------------------------------------------
+1- 🔍 Shallow vs Deep Copy (Python)
+Explain the difference between shallow and deep copying with examples. Show how shared references in shallow copy can affect the original object, while deep copy creates fully independent copies.
+
+2- 🏛 Multiple Inheritance (Python)
+Describe and demonstrate multiple inheritance. Cover what happens when a child overrides a parent method, when two parents have the same method, and when two parents share the same grandparent (diamond problem).
+
+3- 🗳 Voting System with Encapsulation (Python)
+Create a voting system using OOP principles. Implement methods to add candidates, remove candidates, cast votes, and display the winner, ensuring data is hidden using encapsulation.
+
+4- 📱 Smartphone Class with Multiple Inheritance (Python)
+Build a smartphone class that inherits from a Phone class (add/remove contacts, make calls) and a Camera class (take pictures). Demonstrate multiple inheritance in action.
